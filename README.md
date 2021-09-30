@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  🖖 Breno Pereira - Junior Developer at <strong>Pontaltech International </strong>.
+  🖖 Breno Pereira - Software Developer at <strong>Trizy </strong>.
 </p>
 
 <p align="left">
