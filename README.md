@@ -2,11 +2,11 @@
 
 
 <p align="left"> 
-  🖖 Breno Pereira - Software Developer at <strong>Trizy </strong>.
+  🖖 Breno Lima - Back-End Developer at <strong>Trizy </strong>.
 </p>
 
 <p align="left">
-  👨‍💻 Habilidades: <strong>HTML, CSS, JavaScript, NodeJS, ReactJS.</strong>
+  👨‍💻 Habilidades: <strong>JavaScript, NodeJS, ReactJS, Docker, TypeScript and MongoDB.</strong>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 
 <p align="left">
   
-  <a href="https://www.linkedin.com/in/brenocaua" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/brenolima3g/en" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaoinacioneto" /></a>
 
 </p>  
