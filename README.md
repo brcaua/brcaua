@@ -6,16 +6,16 @@
 </p>
 
 <p align="left">
-  👨‍💻 Habilidades: <strong>JavaScript, NodeJS, ReactJS, Docker, TypeScript and MongoDB.</strong>
+  👨‍💻 Skills: <strong>JavaScript, NodeJS, ReactJS, Docker, TypeScript and MongoDB.</strong>
 </p>
 
 <p align="left">
-  🚀 Ferramentas: <strong>VSCode, Terminal, Git and GitHub.</strong>
+  🚀 Tools: <strong>VSCode, Terminal, Git and GitHub.</strong>
 </p>
 
 
 <p align="left">
-  Me siga nas redes sociais: ⤵️
+  My links: ⤵️
 </p>
 
 <p align="left">
