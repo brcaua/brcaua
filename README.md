@@ -2,7 +2,7 @@
 
 
 <p align="left"> 
-  🖖 Breno Lima - Back-End Developer at <strong>Trizy </strong>.
+  🖖 Breno Lima - Back-End Developer at <strong>Vortigo </strong>.
 </p>
 
 <p align="left">
