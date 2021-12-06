@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  👨‍💻 Skills: <strong>JavaScript, NodeJS, ReactJS, Docker, TypeScript and MongoDB.</strong>
+  👨‍💻 Skills: <strong>JavaScript, NodeJS, ReactJS and TypeScript.</strong>
 </p>
 
 <p align="left">
