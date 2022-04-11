@@ -1,3 +1,5 @@
+## "Always leave the code better than you found it", Uncle Bob.
+
 Software Engineer specialized in delivering high-quality Front-end and Back-end solutions for large and mid-size companies in Brazil and Latin America.
 
 Enthusiastic about technology, I love learning new technologies and challenges. Since the age of 15 studying computer science, going through a professional, technical, and a currently higher degree in Information Systems at UDESC.
