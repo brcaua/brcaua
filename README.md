@@ -1,10 +1,10 @@
 ## "Always leave the code better than you found it", Uncle Bob.
 
-Software Engineer specialized in delivering high-quality Front-end and Back-end solutions for large and mid-size companies in Brazil and Latin America.
+I'm a Software Engineer specializing in delivering high-quality Front-end and Back-end solutions with more than 45 million users reached.
 
-Enthusiastic about technology, I love learning new technologies and challenges. Since the age of 15 studying computer science, going through a professional, technical, and a currently higher degree in Information Systems at UDESC.
+I believe that society changes according to technological innovations and not the other way around. That's why I'm inspired by the potential for social transformation that technology has and the speed with which digital innovations happen.
 
-At the age of 16 years old, I sold my first software, a website to serve a store from which I concluded several other website sales taking care of everything from sales to development and customer support.
+Enthusiastic about technology, I'm passionate about learning new technologies and take new challenges. My current stack is based on, but not limited to, React and Node.js monoliths (REST API, GraphQL, Postgres).
 
 ---
 
