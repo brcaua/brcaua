@@ -1,8 +1,13 @@
-After 5 years, many different IT environments, and experiences, I can say that I'm more than happy and proud of doing what I do. Being able to build software, join a team, learn and share knowledge, and provide solutions to all kinds of requirements really represents something meaningful in my professional career.
+I'm an experienced software engineer with an emphasis on client-side web applications with years of experience collaborating with partner teams and creating a product used by millions, with:
 
-For the past few months, I’ve been focusing my efforts on diving deep into the knowledge required to successfully embrace a technical leadership role. My daily routine includes lots of coding, reading, and really lovely discussions with fellow colleagues. 
+- 5+ years experience with JavaScript/Typescript
+- 4+ years experience with ReactJS
+- 4+ years experience with NodeJS
+- 2+ years experience with NestJS
 
-I started this journey as a 14-year-old kid figuring out which career to pursue and here I am, at 20, motivated, always looking for new challenges, and ready for what's next.
+I'm a bachelor's in technology in System Analysis and Development and am experienced in understanding and getting requirements about projects.
+
+On the side, I enjoy exploring and making coffee - Always up for a chat
 
 ---
 
