@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **breno.pereira.dev@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1dACQp3OSWtX3g5m1mkfrVHSIiY7IPoFO/view?usp=sharing](https://drive.google.com/file/d/1dACQp3OSWtX3g5m1mkfrVHSIiY7IPoFO/view?usp=sharing)
+- 📄 Know about my experiences [HERE](shorturl.at/wTY16)
 
 - ⚡ Fun fact **I was an amateur soccer player when I was a teenager.**
 
