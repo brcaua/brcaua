@@ -5,19 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brcaua" alt="brcaua" /></a> </p>
 
-- 🔭 I’m currently working on **WEG**
+- 🔭 I’m currently working on **Capgemini Portugal**
 
-- 🌱 I’m currently learning **Next.js, Java Springboot**
-
-- 👯 I’m looking to collaborate on [Astrobazi](https://astrobazi.netlify.app/)
+- 🌱 I’m currently learning **Next.js, GraphQL and Gatsby**
 
 - 💬 Ask me about **React, Node.js, TypeScript, Next.js, Nest.js**
 
 - 📫 How to reach me **breno.pereira.dev@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WmsyGxdV1gZoVCHy3JOgvETIAkb9eniv/view?usp=sharing](https://drive.google.com/file/d/1WmsyGxdV1gZoVCHy3JOgvETIAkb9eniv/view?usp=sharing)
-
-- ⚡ Fun fact **I was an amateur soccer player when I was a teenager.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
