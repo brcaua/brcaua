@@ -1,13 +1,13 @@
-<h2 align="center">Hi 👋, I'm Breno</h2>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+### Hello! 
+I'm a Software Engineer @ Vodafone who lives in Brazil 🇧🇷
 
-- 🔭 I’m currently working on **Vodafone UK**
+[![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
-- 💬 Ask me about **React, Node.js, TypeScript, Next.js, Nest.js**
+### Contact
+Feel free to [email](mailto:breno.pereira.dev@gmail.com) or [@ twitter](https://x.com/breno3g).
 
-- 📫 How to reach me **breno.pereira.dev@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brenohaidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brenohaidar" height="30" width="40" /></a>
-</p>
+- 🔭 I’m currently working on @Vodafone
+- 🌱 I’m currently learning Next.js, Prisma ORM, GraphQL, AWS
+- 💬 Ask me about React.js & TS development
+- 📫 How to reach me: breno.pereira.dev@gmail or @breno3g on twitter
+- ⚡ Fun fact: I love to write and I'm preparing to launch my first book
