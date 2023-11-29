@@ -1,5 +1,5 @@
 ### Hello! 
-I'm a Software Engineer at @Vodafone who lives in Portugal 🇧🇷
+I'm a Software Engineer at @Vodafone who lives in Brazil 🇧🇷
 
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
