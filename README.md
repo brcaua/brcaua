@@ -4,7 +4,7 @@ I'm a Software Engineer from Brazil 🇧🇷
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
 ### Contact
-Feel free to [email](mailto:breno.pereira.dev@gmail.com), [@ twitter](https://x.com/breno3g) or [@linkedin](https://www.linkedin.com/in/brenohaidar)
+Feel free to [email](mailto:breno.pereira.dev@gmail.com)
 
 - 📒 Instructor at @SouJunior 
 - 🌱 Currently improving my skills in System Design, Clean Arch, GraphQL, AWS and Web3
