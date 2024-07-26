@@ -1,12 +1,17 @@
-### Hello! 
-I'm a Software Engineer from Brazil 🇧🇷
+# Hello, I'm Breno 👋🏻 
+## I'm a Software Engineer from Brazil 🇧🇷 with more than 5 years of experience working with:
+- React.js (Next.js, Gatsby)
+- TypeScript
+- Node.js (Express.js, Nest.js)
+- TailwindCSS, Material UI, AntDesign, Styled Components
+
+## Currently I'm working as Senior Frontend Engineer at Vodafone UK 👾
 
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
-### Contact
+## Contact
 Feel free to [email](mailto:breno.pereira.dev@gmail.com)
 
 - 📒 Instructor at @SouJunior 
 - 🌱 Currently improving my skills in System Design, Clean Arch, GraphQL, AWS and Web3
-- 💬 Ask me about React, Node.js & TS development
-- 📫 How to reach me: breno.pereira.dev@gmail
+- 📫 How to reach me: breno.pereira.dev@gmail.com
