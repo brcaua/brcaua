@@ -4,7 +4,7 @@
 - TypeScript
 - Node.js (Express.js, Nest.js)
 - TailwindCSS, Material UI, AntDesign, Styled Components
-- and currently working as Senior Frontend Engineer at Vodafone UK 🇬🇧
+- and currently working as Senior Frontend Engineer 🇬🇧
 
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
