@@ -1,10 +1,6 @@
-# Hello, I'm Breno 👋🏻 
-## I'm a Software Engineer from Brazil 🇧🇷 with more than 5 years of experience working with:
-- React.js (Next.js, Gatsby)
-- TypeScript
-- Node.js (Express.js, Nest.js)
-- TailwindCSS, Material UI, AntDesign, Styled Components
-- and currently working as Senior Frontend Engineer
+## Hello, I'm Breno 👋🏻 
+
+I'm a Front-End Engineer from Brazil 🇧🇷. I create a lot of cool applications with React and Next.js. I also love sharing knowledge and contributing to Open Source projects.
 
 [![Image of a Penguin](https://tinymystery.club/static/peng-down-walk.gif)](https://tinymystery.club)
 
